@@ -1,1 +1,1 @@
-when this script runs, it says hello
+a script that desrcibes the working directory you are in
